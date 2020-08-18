@@ -1,0 +1,17 @@
+-----------Instruction-------
+1. to searh in pc : command [search "name of the file"] of [find "name of the file"]
+	after search if you want to terminate in middle say[nothing]
+2. to record 
+	i) recording with name: [start recording as "name"]
+	ii)recording with default name: [start recording]
+	default time for recording is 30sec
+	you can provide time on basis of seconds as 120 second
+3.to send mail: [send mail to "name"] or [send email to "name"]
+4.to search on wikipedia: [wikipedia "name of the place,person,things"]
+5.to shutdown/restart your pc: [shutdown]/[restart]
+6. to install python module say: [install python module] 
+	when asking say module name
+7.to exit: [saturday exit] or [good night]
+8.to see time/date: [the time]/[today date]
+9.open site: [open google]/[open youtube]/[open stackoverflow]
+ 
